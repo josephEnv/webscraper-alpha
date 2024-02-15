@@ -40,25 +40,32 @@ Para obtener ayuda sobre cómo utilizar el script, utiliza el argumento `--help`
 cargo run -- --help
 ```
 
-## 🤝 Contribuir
+## 💡 ¿Cómo colaborar?
 
-¡Puedes considerar contribuir al proyecto! Hay varias formas en las que puedes participar y mejorar este script:
+¡Gracias por tu interés en contribuir al proyecto! Hay varias formas en las que puedes ayudar:
 
-1. **Reportar problemas**: Si encuentras algún error o problema, por favor crea un issue en el repositorio para que podamos abordarlo.
-2. **Solicitar características**: Si tienes ideas para nuevas características o mejoras, siéntete libre de abrir un issue y compartir tus sugerencias.
-3. **Enviar pull requests**: Si deseas contribuir directamente al código, puedes hacerlo enviando un pull request. Asegúrate de seguir las pautas de contribución y explicar claramente los cambios propuestos.
+### 1. Reportar problemas
 
-Para contribuir al proyecto, sigue estos pasos:
+Si encuentras algún problema o tienes una sugerencia para mejorar el proyecto, por favor [abre una issue](https://github.com/josephEnv/webscraper-alpha/issues) en GitHub. Asegúrate de proporcionar toda la información relevante y una descripción clara del problema.
 
-1. Haz un fork del repositorio (si aún no lo has hecho).
-2. Clona tu fork en tu máquina local.
-3. Crea una rama para tu contribución (`git checkout -b feature/nueva-caracteristica`).
-4. Realiza tus cambios y asegúrate de que todo funcione correctamente.
-5. Haz commit de tus cambios (`git commit -am 'Añadir nueva característica'`).
-6. Sube tus cambios a tu repositorio en GitHub (`git push origin feature/nueva-caracteristica`).
-7. Abre un pull request en el repositorio original y describe tus cambios detalladamente.
+### 2. Contribuir con código
 
-¡Esperamos tu contribución! 🎉
+Si quieres contribuir con código al proyecto, sigue estos pasos:
 
+1. **Fork** el repositorio desde [aquí](https://github.com/josephEnv/webscraper-alpha/fork).
+2. Clona tu fork a tu máquina local: `git clone https://github.com/TU_NOMBRE_DE_USUARIO/webscraper-alpha.git`
+3. Crea una nueva rama para tu contribución: `git checkout -b nueva-funcionalidad`
+4. Realiza tus cambios y realiza commits descriptivos: `git commit -am 'Añade una nueva funcionalidad'`
+5. Sube tus cambios a tu fork: `git push origin nueva-funcionalidad`
+6. Crea un nuevo **Pull Request** desde tu rama a la rama principal del repositorio.
 
+### 3. Mejorar la documentación
+
+Si encuentras que la documentación del proyecto puede ser mejorada, ¡no dudes en enviar un pull request con tus mejoras! 
+
+### 4. Compartir el proyecto
+
+Si encuentras útil este proyecto, ¡no dudes en compartirlo con otros! Cuantas más personas lo utilicen y contribuyan, mejor será.
+
+¡Gracias por tu ayuda en hacer crecer este proyecto! 🌟
 
