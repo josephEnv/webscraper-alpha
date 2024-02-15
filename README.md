@@ -36,3 +36,29 @@ Asegúrate de proporcionar las credenciales correctas y la API Key de OpenAI par
 
 Para obtener ayuda sobre cómo utilizar el script, utiliza el argumento `--help` al ejecutarlo.
 
+```bash
+cargo run -- --help
+```
+
+## 🤝 Contribuir
+
+¡Puedes considerar contribuir al proyecto! Hay varias formas en las que puedes participar y mejorar este script:
+
+1. **Reportar problemas**: Si encuentras algún error o problema, por favor crea un issue en el repositorio para que podamos abordarlo.
+2. **Solicitar características**: Si tienes ideas para nuevas características o mejoras, siéntete libre de abrir un issue y compartir tus sugerencias.
+3. **Enviar pull requests**: Si deseas contribuir directamente al código, puedes hacerlo enviando un pull request. Asegúrate de seguir las pautas de contribución y explicar claramente los cambios propuestos.
+
+Para contribuir al proyecto, sigue estos pasos:
+
+1. Haz un fork del repositorio (si aún no lo has hecho).
+2. Clona tu fork en tu máquina local.
+3. Crea una rama para tu contribución (`git checkout -b feature/nueva-caracteristica`).
+4. Realiza tus cambios y asegúrate de que todo funcione correctamente.
+5. Haz commit de tus cambios (`git commit -am 'Añadir nueva característica'`).
+6. Sube tus cambios a tu repositorio en GitHub (`git push origin feature/nueva-caracteristica`).
+7. Abre un pull request en el repositorio original y describe tus cambios detalladamente.
+
+¡Esperamos tu contribución! 🎉
+
+
+
