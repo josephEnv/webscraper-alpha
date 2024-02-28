@@ -232,9 +232,12 @@ async fn main() -> Result<(), Box<dyn Error + Send + Sync>> {
 
                     if let Some(xml) = tds.get(7) {
                         if xml.wait_until().enabled().await.is_ok() && xml.is_clickable().await.is_ok() {
-                            
+                            let pdf = tds.get(8).unwrap();
                             loop {
+
                                 xml.click().await?;
+                                pdf.click().await?;
+                                
                                 let mut true_file = false;
                                 thread::sleep(Duration::from_millis(500));
     
