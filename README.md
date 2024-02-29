@@ -2,9 +2,7 @@
 
 ¡Bienvenido al proyecto de automatización del Servicio de Rentas Internas (SRI) de Ecuador! Este script automatiza diversas tareas relacionadas con la interacción y gestión de documentos en el portal en línea del SRI.
 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/alxx_pzmino?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
-
-
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/alxx_pzmino?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C4V171M)
 
 ## Funcionalidades 🛠️
 
